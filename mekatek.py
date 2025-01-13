@@ -48,11 +48,11 @@ while (tahmin!=gercek_sayi):
         print("daha buyuk")
     tahmin=int(input("uretilen sayiyi tahmin ediniz: "))
     deneme_sayisi +=1
-    
-#alisveris sepeti
+
 print(f"{deneme_sayisi}. seferinizde tahmin ettiniz")
-""" 
-"""
+
+#alisveris sepeti
+
 liste=["elma","muz","cikolata"]
 sepet=[]
 kulalnici_istegi=input('listeden urun seciniz liste=["elma","muz","cikolata"]: ')
